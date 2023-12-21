@@ -71,9 +71,6 @@ params:
     - name: twitter
       url: "https://twitter.com/azarmamiyev"
 
-  assets:
-      favicon: "/assets/favicon.ico"
-
   cover:
     hidden: true
     hiddenInList: true
