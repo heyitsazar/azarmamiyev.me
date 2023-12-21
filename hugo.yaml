@@ -1,0 +1,101 @@
+languageCode: en-us
+baseURL: "https://heyitsazar.github.io/azarmamiyev.me/"
+title: Azar Mamiyev
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Azar Mamiyev
+  description: "This is the website of Azar Mamiyev and I create content on Software Development, Cybersecurity, AI."
+  keywords: [Blog, Portfolio, Software Developer, Cybersecurity]
+  author: Azar Mamiyev
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: "Azar Mamiyev"
+    icon: "images/coding.png"
+    iconHeight: 35
+
+  profileMode:
+    enabled: true
+    title: "\U0001F44B Hello! I'm Azar."
+    subtitle: "I'm a Master's student in Computer Science Engineering at
+    Óbuda University, based in Budapest, Hungary. I'm interested in
+    Software Development, Cybersecurity, Internet privacy, and AI. You can find more about me on the links below:"
+    imageUrl: "images/me.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Azar Mamiyev's Portrait"
+    buttons:
+      - name: Blogs
+        url: blogs
+      - name: Projects
+        url: projects
+
+  homeInfoParams:
+    Title: "\U0001F44B Hello! I'm Azar."
+    Content: "I'm a Master's student in Computer Science Engineering at
+    Óbuda University, based in Budapest, Hungary. I'm interested in
+    Software Development, Cybersecurity, Internet privacy, and AI. You can find more about me on the links below:"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/heyitsazar"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/azarmamiyev"
+    - name: twitter
+      url: "https://twitter.com/azarmamiyev"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 4
+    - identifier: blog
+      name: Blogs
+      url: /blogs/
+      weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
