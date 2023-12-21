@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://heyitsazar.github.io/azarmamiyev.me/sitemap.xml
