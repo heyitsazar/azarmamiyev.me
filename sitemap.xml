@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://heyitsazar.github.io/</loc>
+    <loc>//heyitsazar.github.io/</loc>
     <lastmod>2023-12-21T22:19:45+01:00</lastmod>
   </url><url>
-    <loc>https://heyitsazar.github.io/blogs/</loc>
+    <loc>//heyitsazar.github.io/blogs/</loc>
     <lastmod>2023-12-21T22:19:45+01:00</lastmod>
   </url><url>
-    <loc>https://heyitsazar.github.io/blogs/first_post/</loc>
+    <loc>//heyitsazar.github.io/blogs/first_post/</loc>
     <lastmod>2023-12-21T22:19:45+01:00</lastmod>
   </url><url>
-    <loc>https://heyitsazar.github.io/about/</loc>
+    <loc>//heyitsazar.github.io/about/</loc>
     <lastmod>2023-12-21T21:55:03+01:00</lastmod>
   </url><url>
-    <loc>https://heyitsazar.github.io/projects/iot_project/</loc>
+    <loc>//heyitsazar.github.io/projects/iot_project/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://heyitsazar.github.io/projects/</loc>
+    <loc>//heyitsazar.github.io/projects/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://heyitsazar.github.io/categories/</loc>
+    <loc>//heyitsazar.github.io/categories/</loc>
   </url><url>
-    <loc>https://heyitsazar.github.io/tags/</loc>
+    <loc>//heyitsazar.github.io/tags/</loc>
   </url>
 </urlset>

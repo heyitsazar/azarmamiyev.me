@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Azar Mamiyev</title>
-    <link>https://heyitsazar.github.io/projects/</link>
+    <link>//heyitsazar.github.io/projects/</link>
     <description>Recent content in Projects on Azar Mamiyev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 23:15:00 +0700</lastBuildDate>
-    <atom:link href="https://heyitsazar.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//heyitsazar.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IoT Device Programming</title>
-      <link>https://heyitsazar.github.io/projects/iot_project/</link>
+      <link>//heyitsazar.github.io/projects/iot_project/</link>
       <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>https://heyitsazar.github.io/projects/iot_project/</guid>
+      <guid>//heyitsazar.github.io/projects/iot_project/</guid>
       <description>Abstract This was a project aimed at teaching a group of students with little to no background knowledge about the fundamental workings of IoT devices, in theory 1 and in practice. Practical exercises included: a basic &amp;ldquo;hello world!&amp;rdquo; program, LED and button usage example, timer and process explanation examples, sensor data reading examples, generic and ADC port usage examples, client and server communication examples, basics of security and its testing, MQTT communication basics.</description>
     </item>
   </channel>
