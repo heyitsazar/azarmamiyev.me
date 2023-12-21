@@ -38,7 +38,7 @@ params:
 
   label:
     text: "Azar Mamiyev"
-    icon: "azarmamiyev.me/images/coding.png"
+    icon: "/images/coding.png"
     iconHeight: 35
 
   profileMode:
@@ -47,7 +47,7 @@ params:
     subtitle: "I'm a Master's student in Computer Science Engineering at
     Óbuda University, based in Budapest, Hungary. I'm interested in
     Software Development, Cybersecurity, Internet privacy, and AI. You can find more about me on the links below:"
-    imageUrl: "azarmamiyev.me/images/me.png"
+    imageUrl: "/images/me.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Azar Mamiyev's Portrait"
@@ -72,7 +72,7 @@ params:
       url: "https://twitter.com/azarmamiyev"
 
   assets:
-      favicon: "azarmamiyev.me/assets/favicon.ico"
+      favicon: "/assets/favicon.ico"
 
   cover:
     hidden: true
@@ -92,13 +92,13 @@ menu:
   main:
     - identifier: about
       name: About
-      url: azarmamiyev.me/about/
+      url: /about/
       weight: 4
     - identifier: blog
       name: Blogs
-      url: azarmamiyev.me/blogs/
+      url: /blogs/
       weight: 1
     - identifier: projects
       name: Projects
-      url: azarmamiyev.me/projects/
+      url: /projects/
       weight: 2
