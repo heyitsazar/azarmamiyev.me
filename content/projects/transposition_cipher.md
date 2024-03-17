@@ -1,5 +1,5 @@
 ---
-title: 'Transposition_cipher'
+title: 'Python Project: Encryption and Decryption the Transposition Cipher'
 date: 2024-03-18T00:14:57+01:00
 disableshare: false
 category:
