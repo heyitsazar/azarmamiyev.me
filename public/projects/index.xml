@@ -6,8 +6,16 @@
     <description>Recent content in Projects on Azar Mamiyev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 23:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:14:57 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Project: Encryption and Decryption the Transposition Cipher</title>
+      <link>http://localhost:1313/projects/transposition_cipher/</link>
+      <pubDate>Mon, 18 Mar 2024 00:14:57 +0100</pubDate>
+      <guid>http://localhost:1313/projects/transposition_cipher/</guid>
+      <description>In the world of data security, encryption is like a fortress protecting sensitive information from prying eyes. Among the many encryption methods, there&amp;rsquo;s one called the Transposition Cipher. It&amp;rsquo;s a bit like rearranging the letters of a word to make it look scrambled.
+I wrote a blog post about the project, you can find it here and also you can find project on GitHub by clicking here.</description>
+    </item>
     <item>
       <title>IoT Device Programming</title>
       <link>http://localhost:1313/projects/iot_project/</link>

@@ -38,7 +38,7 @@ params:
 
   label:
     text: "Azar Mamiyev"
-    icon: "/images/coding.png"
+    icon: "/images/coding.webp"
     iconHeight: 35
 
   profileMode:
@@ -47,7 +47,7 @@ params:
     subtitle: "I'm a Master's student in Computer Science Engineering at
     Óbuda University, based in Budapest, Hungary. I'm interested in
     Software Development, Cybersecurity, Internet privacy, and AI. You can find more about me on the links below:"
-    imageUrl: "/images/me.png"
+    imageUrl: "/images/me.webp"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Azar Mamiyev's Portrait"
