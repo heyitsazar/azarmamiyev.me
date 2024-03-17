@@ -6,8 +6,16 @@
     <description>Recent content in Blogs on Azar Mamiyev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2023 22:19:45 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:07:32 +0100</lastBuildDate>
     <atom:link href="https://azarmamiyev.me/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimenting Encryption and Decryption with Python: Understanding the Transposition Cipher</title>
+      <link>https://azarmamiyev.me/blogs/transposition_cipher/</link>
+      <pubDate>Mon, 18 Mar 2024 00:07:32 +0100</pubDate>
+      <guid>https://azarmamiyev.me/blogs/transposition_cipher/</guid>
+      <description>In the world of data security, encryption is like a fortress protecting sensitive information from prying eyes. Among the many encryption methods, there&amp;rsquo;s one called the Transposition Cipher. It&amp;rsquo;s a bit like rearranging the letters of a word to make it look scrambled. In this blog post, we&amp;rsquo;ll take a closer look at how this encryption method works using a Python script, you can find full project (here)[https://github.com/heyitsazar/ascii_encryption_basics].
+Understanding the Code Let&amp;rsquo;s break down the code step by step:</description>
+    </item>
     <item>
       <title>My First Post!</title>
       <link>https://azarmamiyev.me/blogs/first_post/</link>
