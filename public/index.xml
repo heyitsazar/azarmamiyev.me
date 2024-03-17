@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azar Mamiyev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Azar Mamiyev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2024 00:07:32 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimenting Encryption and Decryption with Python: Understanding the Transposition Cipher</title>
+      <link>http://localhost:1313/blogs/transposition_cipher/</link>
+      <pubDate>Mon, 18 Mar 2024 00:07:32 +0100</pubDate>
+      <guid>http://localhost:1313/blogs/transposition_cipher/</guid>
+      <description>In the world of data security, encryption is like a fortress protecting sensitive information from prying eyes. Among the many encryption methods, there&amp;rsquo;s one called the Transposition Cipher. It&amp;rsquo;s a bit like rearranging the letters of a word to make it look scrambled. In this blog post, we&amp;rsquo;ll take a closer look at how this encryption method works using a Python script, you can find full project (here)[https://github.com/heyitsazar/ascii_encryption_basics].
+Understanding the Code Let&amp;rsquo;s break down the code step by step:</description>
+    </item>
+    <item>
+      <title>My First Post!</title>
+      <link>http://localhost:1313/blogs/first_post/</link>
+      <pubDate>Thu, 21 Dec 2023 22:19:45 +0100</pubDate>
+      <guid>http://localhost:1313/blogs/first_post/</guid>
+      <description>Welcome to my blog! I&amp;rsquo;m glad that you visited my blog! I&amp;rsquo;m so glad you&amp;rsquo;re here. I&amp;rsquo;m excited to share my thoughts with you on all things related to Software Development, Cybersecurity, Internet privacy, and AI.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 21 Dec 2023 21:55:03 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I was born in Baku, Azerbaijan in 2002. I graduated from Western Caspian University&amp;rsquo;s Computer Engineering department in 2023. During my education, I studied in Germany for one semester within the Erasmus program. I am currently studying for a master&amp;rsquo;s degree in Computer Science Engineering in Bedapest, Hungary. I&amp;rsquo;m interested in a variety of topics, but my main focus right now is cybersecurity.
+Technical Expertise:
+Java - Proficient in object-oriented programming, data structures, algorithms, and Java best practices.</description>
+    </item>
+    <item>
+      <title>IoT Device Programming</title>
+      <link>http://localhost:1313/projects/iot_project/</link>
+      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
+      <guid>http://localhost:1313/projects/iot_project/</guid>
+      <description>Abstract This was a project aimed at teaching a group of students with little to no background knowledge about the fundamental workings of IoT devices, in theory 1 and in practice. Practical exercises included: a basic &amp;ldquo;hello world!&amp;rdquo; program, LED and button usage example, timer and process explanation examples, sensor data reading examples, generic and ADC port usage examples, client and server communication examples, basics of security and its testing, MQTT communication basics.</description>
+    </item>
+  </channel>
+</rss>
