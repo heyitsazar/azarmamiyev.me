@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://azarmamiyev.me/</loc>
-    <lastmod>2024-03-18T00:07:32+01:00</lastmod>
+    <lastmod>2024-03-18T00:14:57+01:00</lastmod>
+  </url><url>
+    <loc>https://azarmamiyev.me/projects/</loc>
+    <lastmod>2024-03-18T00:14:57+01:00</lastmod>
+  </url><url>
+    <loc>https://azarmamiyev.me/projects/transposition_cipher/</loc>
+    <lastmod>2024-03-18T00:14:57+01:00</lastmod>
   </url><url>
     <loc>https://azarmamiyev.me/blogs/</loc>
     <lastmod>2024-03-18T00:07:32+01:00</lastmod>
@@ -18,9 +24,6 @@
     <lastmod>2023-12-21T21:55:03+01:00</lastmod>
   </url><url>
     <loc>https://azarmamiyev.me/projects/iot_project/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://azarmamiyev.me/projects/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://azarmamiyev.me/categories/</loc>
