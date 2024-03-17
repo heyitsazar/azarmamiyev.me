@@ -11,7 +11,7 @@ cover:
 draft: false
 ---
 
-In the world of data security, encryption is like a fortress protecting sensitive information from prying eyes. Among the many encryption methods, there's one called the Transposition Cipher. It's a bit like rearranging the letters of a word to make it look scrambled. In this blog post, we'll take a closer look at how this encryption method works using a Python script, you can find full project (here)[https://github.com/heyitsazar/ascii_encryption_basics].
+In the world of data security, encryption is like a fortress protecting sensitive information from prying eyes. Among the many encryption methods, there's one called the Transposition Cipher. It's a bit like rearranging the letters of a word to make it look scrambled. In this blog post, we'll take a closer look at how this encryption method works using a Python script, you can find full project [here](https://github.com/heyitsazar/ascii_encryption_basics).
 
 ## Understanding the Code
 
