@@ -75,8 +75,6 @@ Suppose we have a message "HELLO" and a key "2143". Following the Transposition 
 
 Putting these characters together based on the key, we get the encrypted message "HELOL".
 
-Stay tuned for the next part, where we'll dive deeper into the encryption process and see how the Transposition Cipher works in action.
-
 ---
 
 **Disclaimer:** This project is for educational purposes only. It's not suitable for encrypting sensitive information, and there may be bugs in the provided script.
