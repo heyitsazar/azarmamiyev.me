@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-18T03:17:04+01:00</lastmod>
+    <lastmod>2024-03-22T01:51:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2024-03-22T01:51:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/prerequisites-devops/</loc>
+    <lastmod>2024-03-22T01:51:11+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/password_manager/</loc>
     <lastmod>2024-03-18T03:17:04+01:00</lastmod>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>http://localhost:1313/projects/transposition_cipher/</loc>
     <lastmod>2024-03-18T00:14:57+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2024-03-18T00:07:32+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/transposition_cipher/</loc>
     <lastmod>2024-03-18T00:07:32+01:00</lastmod>

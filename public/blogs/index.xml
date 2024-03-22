@@ -6,8 +6,16 @@
     <description>Recent content in Blogs on Azar Mamiyev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2024 00:07:32 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 01:51:11 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some stuff that you need to know before learning DevOps</title>
+      <link>http://localhost:1313/blogs/prerequisites-devops/</link>
+      <pubDate>Fri, 22 Mar 2024 01:51:11 +0100</pubDate>
+      <guid>http://localhost:1313/blogs/prerequisites-devops/</guid>
+      <description>This blog contains the notes that I took while I was watching the freeCodeCamp video about DevOps prerequisites. By reading this blog you can get fundamental knowledge about the things you need to know before learning DevOps. I mostly focused on keywords and some small description about them, but you can research more about those by yourself to build long lasting knowledge.
+You can also check the video yourself by clicking here</description>
+    </item>
     <item>
       <title>Experimenting Encryption and Decryption with Python: Understanding the Transposition Cipher</title>
       <link>http://localhost:1313/blogs/transposition_cipher/</link>
